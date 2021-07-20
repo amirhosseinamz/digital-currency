@@ -8,7 +8,7 @@
         <p>Sed ut perspiciatis...</p>
       </div>
       <div class="col-sm-3">
-        <p>Lorem ipsum...</p>
+        <p>Lorem ipsum2...</p>
       </div>
       <div class="col-sm-3">
         <p>Sed ut perspiciatis...</p>
