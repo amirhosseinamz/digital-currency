@@ -1,14 +1,19 @@
 <template>
   <Header />
+  <Main />
   <router-view />
 </template>
 <script>
 import Header from "./components/layout/Header.vue";
+import Main from "./components/layout/Main.vue";
+
 export default {
   name: "app",
   components: {
     // eslint-disable-next-line vue/no-unused-components
     Header,
+    // eslint-disable-next-line vue/no-unused-components
+    Main,
   },
 };
 </script>
