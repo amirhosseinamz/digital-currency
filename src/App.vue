@@ -1,6 +1,17 @@
 <template>
+  <Header />
   <router-view />
 </template>
+<script>
+import Header from "./components/layout/Header.vue";
+export default {
+  name: "app",
+  components: {
+    // eslint-disable-next-line vue/no-unused-components
+    Header,
+  },
+};
+</script>
 
 <style lang="scss">
 #app {
