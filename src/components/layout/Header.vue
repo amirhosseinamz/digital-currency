@@ -25,6 +25,5 @@ export default {};
 #continer {
   padding: 1px 50px;
   margin-top: 15px;
-  border-bottom: 1px solid rgb(235, 235, 235);
 }
 </style>
